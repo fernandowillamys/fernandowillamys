@@ -1,39 +1,15 @@
 ### _Fernando Galvão_ presents 
 
-![Banner](https://github.com/vinifborgess/vinifborgess/blob/main/assets/Frame%201.png)
-
 ----
 
-## Profile package
+### Connect with me in
 
-[![Medium Articles](https://img.shields.io/badge/Articles-5-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vinifborgess)
-[![Technical Posts](https://img.shields.io/badge/Talks-0-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-talks)
-[![Followers](https://img.shields.io/github/followers/vinifborgess?style=for-the-badge&color=blue)](https://github.com/vinifborgess?tab=followers)
-[![Stars](https://img.shields.io/github/stars/vinifborgess?style=for-the-badge&color=yellow)](https://github.com/vinifborgess?tab=repositories)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](your-calendar-link)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/viniborgess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandowillamys)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fernandowillamys)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ferwillamys)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fernandowillamys@gmail.com)
 
-<div align="left">
-
-| Metric | Value | Impact |
-|:------:|:-----:|:------:|
-| Coming Soon | Coming Soon | Coming Soon |
-| Coming Soon | Coming Soon | Coming Soon |
-| Coming Soon | Coming Soon | Coming Soon |
-| Coming Soon | Coming Soon | Coming Soon |
-| Coming Soon | Coming Soon | Coming Soon |
-| Coming Soon | Coming Soon | Coming Soon |
-
-
-</div>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinifborgess&theme=algolia)](https://github.com/vinifborgess/github-profile-trophy)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinifborgess&theme=radical&hide_border=true)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinifborgess&theme=tokyo-night)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinifborgess&show_icons=true&theme=algolia&hide_border=true)
-
-
+---
 
 <h2>Core stack</h2>
 <p>
@@ -68,36 +44,3 @@
   <!-- DevTools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-## Showcase
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Um)](https://github.com/seu-usuario/projeto-um) | [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Dois)](https://github.com/seu-usuario/projeto-dois) | [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Três)](https://github.com/seu-usuario/projeto-tres) | [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Quatro)](https://github.com/seu-usuario/projeto-quatro) |
-| **[Coming soon](https://github.com/seu-usuario/projeto-um)**<br/>_Coming soon._ | **[Coming soon](https://github.com/seu-usuario/projeto-dois)**<br/>_Coming soon._ | **[Coming soon](https://github.com/seu-usuario/projeto-tres)**<br/>_Coming soon._ | **[Coming soon](https://github.com/seu-usuario/projeto-quatro)**<br/>_Coming soon._ |
-
----
-
-
-## Orchestration Hub
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Um)](https://github.com/seu-usuario/projeto-um) | [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Dois)](https://github.com/seu-usuario/projeto-dois) | [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Três)](https://github.com/seu-usuario/projeto-tres) | [![Coming soon](https://via.placeholder.com/200x300/000000/FFFFFF?text=Projeto+Quatro)](https://github.com/seu-usuario/projeto-quatro) |
-| **[Coming soon](https://github.com/seu-usuario/projeto-um)**<br/>_Coming soon._ | **[Coming soon](https://github.com/seu-usuario/projeto-dois)**<br/>_Coming soon._ | **[Coming soon](https://github.com/seu-usuario/projeto-tres)**<br/>_Coming soon._ | **[Coming soon](https://github.com/seu-usuario/projeto-quatro)**<br/>_Coming soon._ |
-
----
-
-
-
---- 
-
-### Connect with me in
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/borgestalks)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@example.com)
-
----
-
-_Invest in a safer tomorrow, now._
